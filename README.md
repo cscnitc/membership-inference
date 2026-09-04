@@ -1,6 +1,6 @@
 # Membership Inference Attack and Privacy Defense
 
-A reproduction of a membership inference attack and defending against it with DP-SGD.
+A reproduction of a membership inference attack and a defense against it with DP-SGD.
 
 ## What are we doing?
 
